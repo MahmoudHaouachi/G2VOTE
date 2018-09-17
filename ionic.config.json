@@ -1,0 +1,8 @@
+{
+  "name": "G2FOSS-Vote",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
